@@ -1,6 +1,6 @@
 cask "bableredit" do
-  version "0.2.3"
-  sha256 "1558c5530593cc4f51f7bc1e7d13b1bb33b3acb2f0316caf7a7be5ec69284f1a"
+  version "0.2.5"
+  sha256 "ffce00b191cd0e6f6fcb90c2977eefb88ae3bbdc809509c7667eabc918022019"
 
   url "https://github.com/Bit-Barron/BablerEdit/releases/download/v#{version}/BablerEdit_#{version}_universal.dmg"
   name "BablerEdit"
